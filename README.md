@@ -1,3 +1,5 @@
 Built in Vite.js
 
-A New Imp-world website that has a vip structer.
+Using Clerk, ChatGPT-4, Bitcoin Api, Blender, Adobe.  
+
+A New Imp-world website that has a vip.
